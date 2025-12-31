@@ -7,7 +7,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 ---
 
 ## 🛠️ Tech Stack
-* **Language:** Java (JDK 21)
+* **Language:** Java (JDK 25)
 * **Tools:** IntelliJ IDEA, Git & GitHub
 * **Focus:** Logic Building, OOPs, DSA, Problem Solving
 
