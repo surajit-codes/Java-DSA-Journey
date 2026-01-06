@@ -24,6 +24,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 05** | OOPs Basics          | Class/Objects, Encapsulation, Inheritance, Validation                                     | ✅ |
 | **Day 06** | OOPs Advanced        | Polymorphism, Abstraction, Interfaces                                                     | ✅ |
 | Day 07 | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
+| **Day 08** | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
 --
