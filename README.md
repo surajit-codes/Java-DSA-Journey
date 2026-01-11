@@ -15,16 +15,17 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 
 ## 📅 Daily Progress Log
 
-| Day | Topic Covered        | Key Concepts                                                                              | Status |
-| :--- |:---------------------|:------------------------------------------------------------------------------------------| :---: |
-| **Day 01** | Introduction & Setup | JDK, Variables, Data Types, Input/Output                                                  | ✅ |
-| **Day 02** | Math & Random        | `Math` class, Random numbers, `If-Else` conditions                                        | ✅ |
-| **Day 03** | Loops & Logic        | `For`, `While`, `Do-While`, Fibonacci, Patterns                                           | ✅ |
-| **Day 04** | Arrays (1D & 2D)     | Linear Search, Matrix, Array Operations                                                   | ✅ |
-| **Day 05** | OOPs Basics          | Class/Objects, Encapsulation, Inheritance, Validation                                     | ✅ |
-| **Day 06** | OOPs Advanced        | Polymorphism, Abstraction, Interfaces                                                     | ✅ |
-| Day 07 | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
-| **Day 08** | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
+| Day         | Topic Covered        | Key Concepts                                                                              | Status |
+|:------------|:---------------------|:------------------------------------------------------------------------------------------| :---: |
+| **Day 01**  | Introduction & Setup | JDK, Variables, Data Types, Input/Output                                                  | ✅ |
+| **Day 02**  | Math & Random        | `Math` class, Random numbers, `If-Else` conditions                                        | ✅ |
+| **Day 03**  | Loops & Logic        | `For`, `While`, `Do-While`, Fibonacci, Patterns                                           | ✅ |
+| **Day 04**  | Arrays (1D & 2D)     | Linear Search, Matrix, Array Operations                                                   | ✅ |
+| **Day 05**  | OOPs Basics          | Class/Objects, Encapsulation, Inheritance, Validation                                     | ✅ |
+| **Day 06**  | OOPs Advanced        | Polymorphism, Abstraction, Interfaces                                                     | ✅ |
+| Day 07      | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
+| **Day 08**  | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
+| **Day 09**  | Project: Real ATM | Interface, File Persistence & Logic | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
 --
