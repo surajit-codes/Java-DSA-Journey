@@ -27,6 +27,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 08**  | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
 | **Day 09**  | Project: Real ATM | Interface, File Persistence & Logic | ✅ |
 | **Day 10**  | Arrays Foundation | Max/Min, Reverse, Zero Shifting | ✅ |
+| **Day 11**  | Sorting Algorithms | Bubble Sort, Insertion Sort | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
 --
