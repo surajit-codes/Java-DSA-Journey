@@ -28,6 +28,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 09**  | Project: Real ATM | Interface, File Persistence & Logic | ✅ |
 | **Day 10**  | Arrays Foundation | Max/Min, Reverse, Zero Shifting | ✅ |
 | **Day 11**  | Sorting Algorithms | Bubble Sort, Insertion Sort | ✅ |
+| **Day 12**  | Binary Search | First/Last Occurrence, Count Occurrences | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
 --
