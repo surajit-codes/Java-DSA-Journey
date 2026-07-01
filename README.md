@@ -30,6 +30,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 11**  | Sorting Algorithms | Bubble Sort, Insertion Sort | ✅ |
 | **Day 12**  | Binary Search | First/Last Occurrence, Count Occurrences | ✅ |
 | **Day 13**  | Divide & Conquer | Merge Sort, Inversion Count | ✅ |
+| **Day 14**  | Linked List | Reverse LL, Middle of LL | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
 --
