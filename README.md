@@ -2,7 +2,7 @@
 
 > **"First, solve the problem. Then, write the code."**
 
-Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student at **Adamas University**. This repository documents my daily progress as I master **Java Core**, **OOPs**, and **Data Structures & Algorithms (DSA)** to prepare for high-level software engineering roles.
+Welcome to my coding repository! I am **Surajit Mondal**,a B.Tech CSE student at **Adamas University**.This repository documents my daily progress as I master **Java Core**, **OOPs**, and **Data Structures & Algorithms (DSA)** to prepare for high-level software engineering roles.
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 04**  | Arrays (1D & 2D)     | Linear Search, Matrix, Array Operations                                                   | ✅ |
 | **Day 05**  | OOPs Basics          | Class/Objects, Encapsulation, Inheritance, Validation                                     | ✅ |
 | **Day 06**  | OOPs Advanced        | Polymorphism, Abstraction, Interfaces                                                     | ✅ |
-| Day 07      | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
+| **Day 07**  | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
 | **Day 08**  | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
 | **Day 09**  | Project: Real ATM | Interface, File Persistence & Logic | ✅ |
 | **Day 10**  | Arrays Foundation | Max/Min, Reverse, Zero Shifting | ✅ |
@@ -33,7 +33,7 @@ Welcome to my coding repository! I am **Surajit Mondal**, a B.Tech CSE student a
 | **Day 14**  | Linked List | Reverse LL, Middle of LL | ✅ |
 | **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
 
---
+---
 
 ## 📂 Project Highlights
 
@@ -53,9 +53,17 @@ Demonstrating **Multiple Inheritance** using Interfaces.
 
 ---
 
+## 🧠 LeetCode Solutions
+
+| Problem | Topic | Name | Difficulty | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 21 | Linked List | Merge Two Sorted Lists | Easy | ✅ |
+
+---
+
 ## 📫 Connect with Me
 * **GitHub:** [surajit-codes](https://github.com/surajit-codes)
-* **LinkedIn:** https://www.linkedin.com/in/surajit-codes/
+* **LinkedIn:** [Surajit Mondal](https://www.linkedin.com/in/surajit-codes/)
 * **Email:** isurajitmondal06@gmail.com
 
 ---
