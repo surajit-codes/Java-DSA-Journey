@@ -10,13 +10,13 @@ Welcome to my central coding repository! I am **Surajit Mondal**, a B.Tech CSE s
 
 To keep my progress organized and easy to navigate, this repository is divided into two main domains:
 
-### 1. 📚 [Daily Learning & Concepts](./Daily_Learning)
+### 1. 📚 [Daily Learning & Concepts](./src/Daily_Learning)
 This section contains my foundation-building journey. It documents my day-by-day progress mastering Java concepts, logic building, OOPs principles, and core DSA implementations from scratch.
-👉 **[View Daily Learning Journey](./Daily_Learning)**
+👉 **[View Daily Learning Journey](./src/Daily_Learning)**
 
-### 2. ⚔️ [DSA Master Sheet (The Grind)](./DSA_Master_Sheet)
+### 2. ⚔️ [DSA Master Sheet (The Grind)](./src/DSA_Master_Sheet)
 This is my current battleground. I am rigorously following a structured DSA Master Sheet covering 400+ problems across 23 topics (from Arrays to Dynamic Programming) to prepare for top-tier SDE roles.
-👉 **[View DSA Master Sheet Progress](./DSA_Master_Sheet)**
+👉 **[View DSA Master Sheet Progress](./src/DSA_Master_Sheet)**
 
 ---
 
