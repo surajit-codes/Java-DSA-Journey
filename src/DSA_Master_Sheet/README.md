@@ -1,0 +1,34 @@
+# ⚔️ DSA Master Sheet: The Ultimate Grind
+
+> **"Consistency is what transforms average into excellence."**
+
+This directory tracks my progress through a highly structured DSA Master Sheet. The goal is to solve standard and advanced problems systematically, ensuring no foundational gaps exist.
+
+## 📊 Topic-Wise Progress Tracker
+
+| Topic No. | Topic Name | Status | Problems Solved |
+| :--- | :--- | :---: | :---: |
+| **01** | **Arrays** | ⏳ In Progress | **6** |
+| 02 | 2D Arrays | 🔴 Pending | 0 |
+| 03 | Basic Maths | 🔴 Pending | 0 |
+| 04 | Strings | 🔴 Pending | 0 |
+| 05 | Binary Search | 🔴 Pending | 0 |
+| 06 | Recursion | 🔴 Pending | 0 |
+| 07 | Sorting | 🔴 Pending | 0 |
+| 08 | Linked List | 🔴 Pending | 0 |
+| 09 | Stacks & Queues | 🔴 Pending | 0 |
+| ... | *More Topics Loading* | ... | ... |
+
+---
+
+## 🎯 Detailed Problem Log
+
+### 📂 Topic 01: Arrays
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Find Element at a Given Index | Easy | GFG | [View Code](./Topic_01_Arrays/FindElementAtAGivenIndex.java) |
+| 2 | Min and Max in Array | Easy | GFG | [View Code](./Topic_01_Arrays/MinAndMaxInArray.java) |
+| 3 | Sum of Array | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfArray.java) |
+| 4 | Sum of Digits | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfDigits.java) |
+| 5 | Check If Array Is Sorted | Easy | GFG | [View Code](./Topic_01_Arrays/CheckIfArrayIsSorted.java) |
+| 6 | Alternates in Array | Easy | GFG | [View Code](./Topic_01_Arrays/AlternatesInArray.java) |

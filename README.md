@@ -2,69 +2,36 @@
 
 > **"First, solve the problem. Then, write the code."**
 
-Welcome to my coding repository! I am **Surajit Mondal**,a B.Tech CSE student at **Adamas University**.This repository documents my daily progress as I master **Java Core**, **OOPs**, and **Data Structures & Algorithms (DSA)** to prepare for high-level software engineering roles.
+Welcome to my central coding repository! I am **Surajit Mondal**, a B.Tech CSE student at **Adamas University**. This repository is the ultimate documentation of my daily coding grind, focusing on **Java Core**, **Object-Oriented Programming (OOPs)**, and structured **Data Structures & Algorithms (DSA)** problem-solving.
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Repository Architecture
+
+To keep my progress organized and easy to navigate, this repository is divided into two main domains:
+
+### 1. 📚 [Daily Learning & Concepts](./Daily_Learning)
+This section contains my foundation-building journey. It documents my day-by-day progress mastering Java concepts, logic building, OOPs principles, and core DSA implementations from scratch.
+👉 **[View Daily Learning Journey](./Daily_Learning)**
+
+### 2. ⚔️ [DSA Master Sheet (The Grind)](./DSA_Master_Sheet)
+This is my current battleground. I am rigorously following a structured DSA Master Sheet covering 400+ problems across 23 topics (from Arrays to Dynamic Programming) to prepare for top-tier SDE roles.
+👉 **[View DSA Master Sheet Progress](./DSA_Master_Sheet)**
+
+---
+
+## 🛠️ Tech Stack & Tools
 * **Language:** Java (JDK 25)
-* **Tools:** IntelliJ IDEA, Git & GitHub
-* **Focus:** Logic Building, OOPs, DSA, Problem Solving
+* **IDE:** IntelliJ IDEA
+* **Version Control:** Git & GitHub
+* **Platforms:** LeetCode, GeeksforGeeks
 
 ---
 
-## 📅 Daily Progress Log
-
-| Day         | Topic Covered        | Key Concepts                                                                              | Status |
-|:------------|:---------------------|:------------------------------------------------------------------------------------------| :---: |
-| **Day 01**  | Introduction & Setup | JDK, Variables, Data Types, Input/Output                                                  | ✅ |
-| **Day 02**  | Math & Random        | `Math` class, Random numbers, `If-Else` conditions                                        | ✅ |
-| **Day 03**  | Loops & Logic        | `For`, `While`, `Do-While`, Fibonacci, Patterns                                           | ✅ |
-| **Day 04**  | Arrays (1D & 2D)     | Linear Search, Matrix, Array Operations                                                   | ✅ |
-| **Day 05**  | OOPs Basics          | Class/Objects, Encapsulation, Inheritance, Validation                                     | ✅ |
-| **Day 06**  | OOPs Advanced        | Polymorphism, Abstraction, Interfaces                                                     | ✅ |
-| **Day 07**  | Exception Handling & Lists | ArrayList, Try-Catch, Composition Basics | ✅ |
-| **Day 08**  | File Handling (I/O) | `FileWriter`, `FileReader`, Persistent Data Storage | ✅ |
-| **Day 09**  | Project: Real ATM | Interface, File Persistence & Logic | ✅ |
-| **Day 10**  | Arrays Foundation | Max/Min, Reverse, Zero Shifting | ✅ |
-| **Day 11**  | Sorting Algorithms | Bubble Sort, Insertion Sort | ✅ |
-| **Day 12**  | Binary Search | First/Last Occurrence, Count Occurrences | ✅ |
-| **Day 13**  | Divide & Conquer | Merge Sort, Inversion Count | ✅ |
-| **Day 14**  | Linked List | Reverse LL, Middle of LL | ✅ |
-| **Day ...** | *Loading...*         | *More DSA Topics*                                                                         | ⏳ |
-
----
-
-## 📂 Project Highlights
-
-### 🔹 Banking System (OOPs)
-A secure banking application simulation using **Encapsulation** and **Inheritance**.
-* **Features:** Deposit, Withdraw (with validation), Balance Check.
-* **Concepts:** `private` fields, Getters/Setters, Validation Logic.
-
-### 🔹 Smartphone Interface
-Demonstrating **Multiple Inheritance** using Interfaces.
-* **Concepts:** `implements`, Method Overriding, Abstract Methods.
-
-### 🔹 Logic Builders
-* **Fibonacci Series**
-* **Pattern Printing (Pyramids)**
-* **Simple Calculator**
-
----
-
-## 🧠 LeetCode Solutions
-
-| Problem | Topic | Name | Difficulty | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 21 | Linked List | Merge Two Sorted Lists | Easy | ✅ |
-
----
-
-## 📫 Connect with Me
+## 📫 Let's Connect
 * **GitHub:** [surajit-codes](https://github.com/surajit-codes)
 * **LinkedIn:** [Surajit Mondal](https://www.linkedin.com/in/surajit-codes/)
 * **Email:** isurajitmondal06@gmail.com
 
 ---
-*⭐ If you find this repository helpful or interesting, please give it a star!*
+*⭐ If you find this structure helpful, feel free to drop a star!*
