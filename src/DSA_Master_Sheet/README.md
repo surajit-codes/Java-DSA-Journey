@@ -8,7 +8,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 | Topic No. | Topic Name | Status | Problems Solved |
 | :--- | :--- | :---: |:---------------:|
-| **01** | **Arrays** | ⏳ In Progress |     **11**      |
+| **01** | **Arrays** | ⏳ In Progress |     **14**      |
 | 02 | 2D Arrays | 🔴 Pending |        0        |
 | 03 | Basic Maths | 🔴 Pending |        0        |
 | 04 | Strings | 🔴 Pending |        0        |
@@ -37,3 +37,6 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 9 | Reverse an Array | Easy | GFG | [View Code](./Topic_01_Arrays/ReverseAnArray.java) |
 | 10 | Missing Number | Easy | LeetCode | [View Code](./Topic_01_Arrays/MissingNumber.java) |
 | 11 | Segregate 0's and 1's | Easy | GFG | [View Code](./Topic_01_Arrays/SegregateZerosAndOnes.java) |
+| 12 | Maximum Consecutive Ones | Easy | LeetCode | [View Code](./Topic_01_Arrays/MaxConsecutiveOnes.java) |
+| 13 | Array With All Palindrome | Easy | GFG | [View Code](./Topic_01_Arrays/ArrayWithAllPalindrome.java) |
+| 14 | Move Zeroes to End | Easy | LeetCode | [View Code](./Topic_01_Arrays/MoveZeroesToEnd.java) |
