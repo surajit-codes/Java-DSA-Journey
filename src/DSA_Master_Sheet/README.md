@@ -9,7 +9,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | Topic No. | Topic Name | Status | Problems Solved |
 | :--- | :--- | :---: |:---------------:|
 | **01** | **Arrays** | ⏳ In Progress |     **17**      |
-| 02 | 2D Arrays | 🔴 Pending |        0        |
+| 02 | 2D Arrays | ⏳ In Progress |      **1**      |
 | 03 | Basic Maths | 🔴 Pending |        0        |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search | 🔴 Pending |        0        |
@@ -43,3 +43,9 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 15 | Sort Colors (0s, 1s, 2s) | Medium | LeetCode | [View Code](./Topic_01_Arrays/SortArraysWithZeroesOnesAndTwos.java) |
 | 16 | Reverse Integer | Medium | LeetCode | [View Code](./Topic_01_Arrays/ReverseInteger.java) |
 | 17 | Array Leaders | Easy | GFG | [View Code](./Topic_01_Arrays/ArrayLeaders.java) |
+
+
+### 📂 Topic 02: 2D Arrays
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Sum of elements in matrix | Easy | GFG | [View Code](./Topic_02_2DArrays/SumOfElementsInMatrix.java) |
