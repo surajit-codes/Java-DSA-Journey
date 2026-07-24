@@ -9,7 +9,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | Topic No. | Topic Name | Status | Problems Solved |
 | :--- | :--- | :---: |:---------------:|
 | **01** | **Arrays** | ⏳ In Progress |     **17**      |
-| 02 | 2D Arrays | ⏳ In Progress |      **1**      |
+| 02 | 2D Arrays | ⏳ In Progress |      **4**      |
 | 03 | Basic Maths | 🔴 Pending |        0        |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search | 🔴 Pending |        0        |
@@ -49,3 +49,6 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | # | Problem Name | Difficulty | Platform | Code Link |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | Sum of elements in matrix | Easy | GFG | [View Code](./Topic_02_2DArrays/SumOfElementsInMatrix.java) |
+| 2 | Count Negative numbers in sorted array | Easy | LeetCode | [View Code](./Topic_02_2DArrays/CountNegativeNumbersInSortedMatrix.java) |
+| 3 | Matrix Diagonal Sum | Easy | LeetCode | [View Code](./Topic_02_2DArrays/MatrixDiagonalSum.java) |
+| 4 | Count Number Of Zeroes in a sorted matrix | Easy | GFG | [View Code](./Topic_02_2DArrays/CountNumberOfZeroesInSortedMatrix.java) |
