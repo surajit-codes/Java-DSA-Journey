@@ -44,6 +44,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 16 | Reverse Integer | Medium | LeetCode | [View Code](./Topic_01_Arrays/ReverseInteger.java) |
 | 17 | Array Leaders | Easy | GFG | [View Code](./Topic_01_Arrays/ArrayLeaders.java) |
 | 18 | Rearrange Elements By Sign | Medium | LeetCode | [View Code](./Topic_01_Arrays/RearrangeElementsBySign.java) |
+| 19 | Rotate Array By One | Easy | GFG | [View Code](./Topic_01_Arrays/RotateArrayByOne.java) |
 
 
 ### 📂 Topic 02: 2D Arrays
