@@ -10,7 +10,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | :--- | :--- | :---: |:---------------:|
 | **01** | **Arrays** | ⏳ In Progress |     **18**      |
 | 02 | 2D Arrays | ⏳ In Progress |      **4**      |
-| 03 | Basic Maths | ⏳ In Progress |      **1**      |
+| 03 | Basic Maths | ⏳ In Progress |      **2**      |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search | 🔴 Pending |        0        |
 | 06 | Recursion | 🔴 Pending |        0        |
@@ -60,3 +60,4 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | # | Problem Name | Difficulty | Platform | Code Link |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | Armstrong Numbers | Easy | GFG | [View Code](./Topic_03_BasicMaths/ArmstrongNumbers.java) |
+| 2 | All Divisors of a number | Easy | GFG | [View Code](./Topic_03_BasicMaths/AllDivisors.java) |
