@@ -12,7 +12,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 02 | 2D Arrays | ⏳ In Progress |      **4**      |
 | 03 | Basic Maths | ⏳ In Progress |      **3**      |
 | 04 | Strings | 🔴 Pending |        0        |
-| 05 | Binary Search | 🔴 Pending |        0        |
+| 05 | Binary Search |⏳ In Progress |        0        |
 | 06 | Recursion | 🔴 Pending |        0        |
 | 07 | Sorting | 🔴 Pending |        0        |
 | 08 | Linked List | 🔴 Pending |        0        |
@@ -62,3 +62,9 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 1 | Armstrong Numbers | Easy | GFG | [View Code](./Topic_03_BasicMaths/ArmstrongNumbers.java) |
 | 2 | All Divisors of a number | Easy | GFG | [View Code](./Topic_03_BasicMaths/AllDivisors.java) |
 | 3 | Prime Number or not | Easy | GFG | [View Code](./Topic_03_BasicMaths/PrimeNumber.java) |
+
+
+### 📂 Topic 05: Binary Search
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Search x in sorted array | Easy | LeetCode | [View Code](./Topic_05_BinarySearch/BinarySearch.java) |
