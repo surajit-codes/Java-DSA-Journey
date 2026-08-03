@@ -68,3 +68,6 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | # | Problem Name | Difficulty | Platform | Code Link |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | Search x in sorted array | Easy | LeetCode | [View Code](./Topic_05_BinarySearch/BinarySearch.java) |
+| 2 | Search Insert Position | Easy | LeetCode | [View Code](./Topic_05_BinarySearch/SearchInsertPosition.java) |
+| 3 | Implement Upper Bound | Easy | GFG | [View Code](./Topic_05_BinarySearch/ImplementUpperBound.java) |
+| 4 | Implement Lower Bound | Easy | GFG | [View Code](./Topic_05_BinarySearch/ImplementLowerBound.java) |
