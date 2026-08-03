@@ -12,7 +12,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 02 | 2D Arrays | ⏳ In Progress |      **4**      |
 | 03 | Basic Maths | ⏳ In Progress |      **3**      |
 | 04 | Strings | 🔴 Pending |        0        |
-| 05 | Binary Search |⏳ In Progress |        0        |
+| 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | 🔴 Pending |        0        |
 | 07 | Sorting | 🔴 Pending |        0        |
 | 08 | Linked List | 🔴 Pending |        0        |
