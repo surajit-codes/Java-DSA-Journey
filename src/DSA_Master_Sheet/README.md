@@ -13,7 +13,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 03 | Basic Maths | ⏳ In Progress |      **3**      |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search |⏳ In Progress |      **4**      |
-| 06 | Recursion | 🔴 Pending |        0        |
+| 06 | Recursion | ⏳ In Progress |      **3**      |
 | 07 | Sorting | 🔴 Pending |        0        |
 | 08 | Linked List | 🔴 Pending |        0        |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
@@ -71,3 +71,10 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 2 | Search Insert Position | Easy | LeetCode | [View Code](./Topic_05_BinarySearch/SearchInsertPosition.java) |
 | 3 | Implement Upper Bound | Easy | GFG | [View Code](./Topic_05_BinarySearch/ImplementUpperBound.java) |
 | 4 | Implement Lower Bound | Easy | GFG | [View Code](./Topic_05_BinarySearch/ImplementLowerBound.java) |
+
+### 📂 Topic 06: Recursion
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Print 1 to N Without Using Loop | Basic | GFG | [View Code](./Topic_06_Recursion/Print1toNWithOutLoop.java) |
+| 2 | Sum Of All Natural Numbers | Easy | GFG | [View Code](./Topic_06_Recursion/SumOfNaturalNumbers.java) |
+| 3 | Print N to 1 Without using loops | Easy | GFG | [View Code](./Topic_06_Recursion/PrintNto1WithOutLoop.java) |
