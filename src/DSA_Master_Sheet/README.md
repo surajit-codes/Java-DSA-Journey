@@ -14,7 +14,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **5**      |
-| 07 | Sorting | 🔴 Pending |        0        |
+| 07 | Sorting | ⏳ In Progress |      **4**      |
 | 08 | Linked List | 🔴 Pending |        0        |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
@@ -80,3 +80,11 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 3 | Print N to 1 Without using loops | Easy | GFG | [View Code](./Topic_06_Recursion/PrintNto1WithOutLoop.java) |
 | 4 | Factorial | Easy | GFG | [View Code](./Topic_06_Recursion/Factorial.java) |
 | 5 | Fibonacci Number | Easy | LeetCode | [View Code](./Topic_06_Recursion/FibonacciNumber.java) |
+
+### 📂 Topic 07: Sorting
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Linear search in an array | Easy | GFG | [View Code](./Topic_07_Sorting/ArraySearch.java) |
+| 2 | Sort An Array (Merge Sort) | Medium | LeetCode | [View Code](./Topic_07_Sorting/SortAnArray.java) |
+| 3 | Sort Array by Parity II | Easy | LeetCode | [View Code](./Topic_07_Sorting/SortArrayByParityII.java) |
+| 4 | Maximum Gap | Medium | LeetCode | [View Code](./Topic_07_Sorting/MaximumGap.java) |
