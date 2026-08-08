@@ -8,13 +8,13 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 | Topic No. | Topic Name | Status | Problems Solved |
 | :--- | :--- | :---: |:---------------:|
-| **01** | **Arrays** | ⏳ In Progress |     **18**      |
+| **01** | **Arrays** | ⏳ In Progress |     **19**      |
 | 02 | 2D Arrays | ⏳ In Progress |      **4**      |
 | 03 | Basic Maths | ⏳ In Progress |      **3**      |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **5**      |
-| 07 | Sorting | ⏳ In Progress |      **4**      |
+| 07 | Sorting | ⏳ In Progress |      **5**      |
 | 08 | Linked List | 🔴 Pending |        0        |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
@@ -88,3 +88,4 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 2 | Sort An Array (Merge Sort) | Medium | LeetCode | [View Code](./Topic_07_Sorting/SortAnArray.java) |
 | 3 | Sort Array by Parity II | Easy | LeetCode | [View Code](./Topic_07_Sorting/SortArrayByParityII.java) |
 | 4 | Maximum Gap | Medium | LeetCode | [View Code](./Topic_07_Sorting/MaximumGap.java) |
+| 5 | Sort Element By Decreasing Frequency | Medium | GFG | [View Code](./Topic_07_Sorting/SortElementDecreasingFrequency.java) |
