@@ -15,7 +15,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **6**      |
 | 07 | Sorting | ⏳ In Progress |      **5**      |
-| 08 | Linked List | 🔴 Pending |        0        |
+| 08 | Linked List | ⏳ In Progress |      **2**      |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
 
@@ -90,3 +90,9 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 3 | Sort Array by Parity II | Easy | LeetCode | [View Code](./Topic_07_Sorting/SortArrayByParityII.java) |
 | 4 | Maximum Gap | Medium | LeetCode | [View Code](./Topic_07_Sorting/MaximumGap.java) |
 | 5 | Sort Element By Decreasing Frequency | Medium | GFG | [View Code](./Topic_07_Sorting/SortElementDecreasingFrequency.java) |
+
+### 📂 Topic 08: Linked List
+| # | Problem Name | Difficulty | Platform | Code Link |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | Array to LinkedList | Easy | GFG | [View Code](./Topic_08_LinkedList/ArrayToLinkedList.java) |
+| 2 | Length of a LinkedList | Easy | GFG | [View Code](./Topic_08_LinkedList/LengthOfLinkedList.java) |
