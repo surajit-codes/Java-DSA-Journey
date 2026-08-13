@@ -15,7 +15,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **6**      |
 | 07 | Sorting | ⏳ In Progress |      **5**      |
-| 08 | Linked List | ⏳ In Progress |      **10**      |
+| 08 | Linked List | ⏳ In Progress |     **14**      |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
 
@@ -104,3 +104,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 8 | Delete Middle of a LinkedList | Medium | LeetCode | [View Code](./Topic_08_LinkedList/DeleteMiddleOfALinkedList.java) |
 | 9 | Middle of LinkedList | Easy | LeetCode | [View Code](./Topic_08_LinkedList/MiddleOfLinkedList.java) |
 | 10 | LinkedList Cycle | Easy | LeetCode | [View Code](./Topic_08_LinkedList/LinkedListCycle.java) |
+| 11 | Intersection of Two LinkedList | Easy | LeetCode | [View Code](./Topic_08_LinkedList/IntersectionOfTwoLinkedList.java) |
+| 12 | LinkedList Cycle II | Medium | LeetCode | [View Code](./Topic_08_LinkedList/LinkedListCycleII.java) |
+| 13 | Cycle Length in LinkedList | Medium | GFG | [View Code](./Topic_08_LinkedList/CycleLengthInLinkedList.java) |
+| 14 | Remove Nth Node From a LinkedList | Medium | LeetCode | [View Code](./Topic_08_LinkedList/RemoveNthNodeFromEndOfALL.java) |
