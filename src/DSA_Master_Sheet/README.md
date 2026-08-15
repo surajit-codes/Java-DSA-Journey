@@ -15,7 +15,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **6**      |
 | 07 | Sorting | ⏳ In Progress |      **5**      |
-| 08 | Linked List | ⏳ In Progress |     **14**      |
+| 08 | Linked List | ⏳ In Progress |     **16**      |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
 
@@ -109,3 +109,4 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 13 | Cycle Length in LinkedList | Medium | GFG | [View Code](./Topic_08_LinkedList/CycleLengthInLinkedList.java) |
 | 14 | Remove Nth Node From a LinkedList | Medium | LeetCode | [View Code](./Topic_08_LinkedList/RemoveNthNodeFromEndOfALL.java) |
 | 15 | Reverse LinkedList | Easy | LeetCode | [View Code](./Topic_08_LinkedList/ReverseLinkedList.java) |
+| 16 | Palindrome LinkedList | Easy | LeetCode | [View Code](./Topic_08_LinkedList/PalindromeLinkedList.java) |
