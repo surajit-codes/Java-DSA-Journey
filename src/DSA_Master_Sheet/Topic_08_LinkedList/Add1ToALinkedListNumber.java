@@ -1,7 +1,7 @@
 package DSA_Master_Sheet.Topic_08_LinkedList;
 /*
     * Problem Name: Add 1 to a LinkedList Number
-    * Difficulty: Medium , Level 4/5 (DSA_Master_Sheet)
+    * Difficulty: Medium , Level 3/5 (DSA_Master_Sheet)
     * Platform: GFG (https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
  */
 public class Add1ToALinkedListNumber {
