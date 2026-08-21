@@ -15,7 +15,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 05 | Binary Search |⏳ In Progress |      **4**      |
 | 06 | Recursion | ⏳ In Progress |      **6**      |
 | 07 | Sorting | ⏳ In Progress |      **5**      |
-| 08 | Linked List | ⏳ In Progress |     **22**      |
+| 08 | Linked List | ⏳ In Progress |     **23**      |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
 | ... | *More Topics Loading* | ... |       ...       |
 
@@ -116,3 +116,4 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 20 | Rotate List | Medium | LeetCode | [View Code](./Topic_08_LinkedList/RotateList.java) |
 | 21 | Add 1 to a LinkedList Number | Medium | GFG | [View Code](./Topic_08_LinkedList/Add1ToALinkedListNumber.java) |
 | 22 | Add Two Numbers | Medium | LeetCode | [View Code](./Topic_08_LinkedList/AddTwoNumbers.java) |
+| 23 | Add Two Numbers II | Medium | LeetCode | [View Code](./Topic_08_LinkedList/AddtwoNumbersII.java) |
