@@ -13,7 +13,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 03 | Basic Maths | ⏳ In Progress |      **3**      |
 | 04 | Strings | 🔴 Pending |        0        |
 | 05 | Binary Search |⏳ In Progress |      **4**      |
-| 06 | Recursion | ⏳ In Progress |      **6**      |
+| 06 | Recursion | ⏳ In Progress |      **7**      |
 | 07 | Sorting | ⏳ In Progress |      **5**      |
 | 08 | Linked List | ⏳ In Progress |     **23**      |
 | 09 | Stacks & Queues | 🔴 Pending |        0        |
@@ -74,13 +74,14 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 ### 📂 Topic 06: Recursion
 | # | Problem Name | Difficulty | Platform | Code Link |
-| :---: | :--- | :---: | :---: | :---: |
+|:-:| :--- | :---: | :---: | :---: |
 | 1 | Print 1 to N Without Using Loop | Basic | GFG | [View Code](./Topic_06_Recursion/Print1toNWithOutLoop.java) |
 | 2 | Sum Of All Natural Numbers | Easy | GFG | [View Code](./Topic_06_Recursion/SumOfNaturalNumbers.java) |
 | 3 | Print N to 1 Without using loops | Easy | GFG | [View Code](./Topic_06_Recursion/PrintNto1WithOutLoop.java) |
 | 4 | Factorial | Easy | GFG | [View Code](./Topic_06_Recursion/Factorial.java) |
 | 5 | Fibonacci Number | Easy | LeetCode | [View Code](./Topic_06_Recursion/FibonacciNumber.java) |
 | 6 | Reverse an Array | Easy | GFG | [View Code](./Topic_06_Recursion/ReverseAnArray.java) |
+| 7 | Pow(x,n) | Medium | LeetCode | [View Code](./Topic_06_Recursion/PowOfxn.java) |
 
 ### 📂 Topic 07: Sorting
 | # | Problem Name | Difficulty | Platform | Code Link |
