@@ -6,18 +6,19 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 ## 📊 Topic-Wise Progress Tracker
 
-| Topic No. | Topic Name | Status | Problems Solved |
-| :--- | :--- | :---: |:---------------:|
-| **01** | **Arrays** | ⏳ In Progress |     **19**      |
-| 02 | 2D Arrays | ⏳ In Progress |      **4**      |
-| 03 | Basic Maths | ⏳ In Progress |      **3**      |
-| 04 | Strings | 🔴 Pending |        0        |
-| 05 | Binary Search |⏳ In Progress |      **4**      |
-| 06 | Recursion | ⏳ In Progress |      **7**      |
-| 07 | Sorting | ⏳ In Progress |      **5**      |
-| 08 | Linked List | ⏳ In Progress |     **23**      |
-| 09 | Stacks & Queues | 🔴 Pending |        0        |
-| ... | *More Topics Loading* | ... |       ...       |
+| Topic No. | Topic Name            | Status | Problems Solved |
+|:----------|:----------------------| :---: |:---------------:|
+| **01**    | **Arrays**            | ⏳ In Progress |     **19**      |
+| 02        | 2D Arrays             | ⏳ In Progress |      **4**      |
+| 03        | Basic Maths           | ⏳ In Progress |      **3**      |
+| 04        | Strings               | 🔴 Pending |        0        |
+| 05        | Binary Search         |⏳ In Progress |      **4**      |
+| 06        | Recursion             | ⏳ In Progress |      **7**      |
+| 07        | Sorting               | ⏳ In Progress |      **5**      |
+| 08        | Linked List           | ⏳ In Progress |     **23**      |
+| 09        | Stacks & Queues       | 🔴 Pending |        0        |
+| 10        | Binary Trees          | ⏳ In Progress |      **2**      |
+| ...       | *More Topics Loading* | ... |       ...       |
 
 ---
 
@@ -118,3 +119,9 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 21 | Add 1 to a LinkedList Number | Medium | GFG | [View Code](./Topic_08_LinkedList/Add1ToALinkedListNumber.java) |
 | 22 | Add Two Numbers | Medium | LeetCode | [View Code](./Topic_08_LinkedList/AddTwoNumbers.java) |
 | 23 | Add Two Numbers II | Medium | LeetCode | [View Code](./Topic_08_LinkedList/AddtwoNumbersII.java) |
+
+## 📂 Topic 10: Binary Trees
+| No. | Problem Name | Difficulty | Platform | Code Link |
+|---|---|---|---|---|
+| 1 | Binary Tree Preorder Traversal | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreePreeOrderTraversal.java) |
+| 2 | Binary Tree Inorder Traversal | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreeInOrderTraversal.java) |
