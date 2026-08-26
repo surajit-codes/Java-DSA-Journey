@@ -17,7 +17,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 07        | Sorting               | ⏳ In Progress |      **5**      |
 | 08        | Linked List           | ⏳ In Progress |     **23**      |
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
-| 10        | Binary Trees          | ⏳ In Progress |      **6**      |
+| 10        | Binary Trees          | ⏳ In Progress |      **8**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -129,3 +129,5 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 4 | Binary Tree Level Order Traversal | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BinaryTreeLevelOrderTraversal.java) |
 | 5 | Binary Tree ZigZag Level Order Traversal | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTZigZagLevelOrderTraversal.java) |
 | 6 | Binary Tree Right Side View | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTRightSideView.java) |
+| 7 | Size Of a Binary Tree | Easy | GFG | [View Code](./Topic_10_BinaryTrees/SizeOfBinaryTree.java) |
+| 8 | Maximum Depth of Binary Tree | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/MaxDepthOfBT.java) |
