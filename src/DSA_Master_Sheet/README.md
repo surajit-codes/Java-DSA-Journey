@@ -121,14 +121,16 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 23 | Add Two Numbers II | Medium | LeetCode | [View Code](./Topic_08_LinkedList/AddtwoNumbersII.java) |
 
 ## 📂 Topic 10: Binary Trees
-| No. | Problem Name | Difficulty | Platform | Code Link |
-|---|---|---|---|---|
-| 1 | Binary Tree Preorder Traversal | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreePreeOrderTraversal.java) |
-| 2 | Binary Tree Inorder Traversal | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreeInOrderTraversal.java) |
-| 3 | Binary Tree Postorder Traversal | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/BinarytreePostOrderTraversal.java) |
-| 4 | Binary Tree Level Order Traversal | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BinaryTreeLevelOrderTraversal.java) |
-| 5 | Binary Tree ZigZag Level Order Traversal | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTZigZagLevelOrderTraversal.java) |
-| 6 | Binary Tree Right Side View | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTRightSideView.java) |
-| 7 | Size Of a Binary Tree | Easy | GFG | [View Code](./Topic_10_BinaryTrees/SizeOfBinaryTree.java) |
-| 8 | Maximum Depth of Binary Tree | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/MaxDepthOfBT.java) |
-| 9 | Sum Of Binary Tree | Easy | GFG | [View Code](./Topic_10_BinaryTrees/SumOfBinaryTree.java) |
+| No. | Problem Name                             | Difficulty | Platform | Code Link |
+|-----|------------------------------------------|---|---|---|
+| 1   | Binary Tree Preorder Traversal           | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreePreeOrderTraversal.java) |
+| 2   | Binary Tree Inorder Traversal            | Easy | LeetCode / GFG | [View Code](./Topic_10_BinaryTrees/BinaryTreeInOrderTraversal.java) |
+| 3   | Binary Tree Postorder Traversal          | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/BinarytreePostOrderTraversal.java) |
+| 4   | Binary Tree Level Order Traversal        | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BinaryTreeLevelOrderTraversal.java) |
+| 5   | Binary Tree ZigZag Level Order Traversal | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTZigZagLevelOrderTraversal.java) |
+| 6   | Binary Tree Right Side View              | Medium | LeetCode | [View Code](./Topic_10_BinaryTrees/BTRightSideView.java) |
+| 7   | Size Of a Binary Tree                    | Easy | GFG | [View Code](./Topic_10_BinaryTrees/SizeOfBinaryTree.java) |
+| 8   | Maximum Depth of Binary Tree             | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/MaxDepthOfBT.java) |
+| 9   | Sum Of Binary Tree                       | Easy | GFG | [View Code](./Topic_10_BinaryTrees/SumOfBinaryTree.java) |
+| 10  | Min Value In BT                          | Easy | GFG | [View Code](./Topic_10_BinaryTrees/MinValueInBT)|
+| 11 | Level Of Node In Binary Tree             |Easy | GFG | [View Code](./Topic_10_BinaryTrees/LevelOfNodeInBT)|
