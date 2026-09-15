@@ -17,7 +17,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 07        | Sorting               | ⏳ In Progress |      **5**      |
 | 08        | Linked List           | ⏳ In Progress |     **23**      |
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
-| 10        | Binary Trees          | ⏳ In Progress |     **15**      |
+| 10        | Binary Trees          | ⏳ In Progress |     **17**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -138,3 +138,5 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 13 | Same Tree | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/SameTree.java) |
 | 14 | Symmetric Tree | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/SymmetricTree.java) |
 | 15 | Path Sum | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/PathSum.java) |
+| 16 | Check for Balanced Tree | Easy | GFG | [View Code](./Topic_10_BinaryTrees/BalancecBT.java) |
+| 17 | Diameter of Binary Tree | Medium | GFG | [View Code](./Topic_10_BinaryTrees/DiameterOfBT.java) |
