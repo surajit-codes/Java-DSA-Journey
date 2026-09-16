@@ -8,7 +8,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 | Topic No. | Topic Name            | Status | Problems Solved |
 |:----------|:----------------------| :---: |:---------------:|
-| **01**    | **Arrays**            | ⏳ In Progress |     **19**      |
+| **01**    | **Arrays**            | ⏳ In Progress |      **20**      |
 | 02        | 2D Arrays             | ⏳ In Progress |      **4**      |
 | 03        | Basic Maths           | ⏳ In Progress |      **3**      |
 | 04        | Strings               | 🔴 Pending |        0        |
@@ -25,17 +25,17 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 ## 🎯 Detailed Problem Log
 
 ### 📂 Topic 01: Arrays
-| # | Problem Name | Difficulty | Platform | Code Link |
-| :---: | :--- | :---: | :---: | :---: |
-| 1 | Find Element at a Given Index | Easy | GFG | [View Code](./Topic_01_Arrays/FindElementAtAGivenIndex.java) |
-| 2 | Min and Max in Array | Easy | GFG | [View Code](./Topic_01_Arrays/MinAndMaxInArray.java) |
-| 3 | Sum of Array | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfArray.java) |
-| 4 | Sum of Digits | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfDigits.java) |
-| 5 | Check If Array Is Sorted | Easy | GFG | [View Code](./Topic_01_Arrays/CheckIfArrayIsSorted.java) |
-| 6 | Alternates in Array | Easy | GFG | [View Code](./Topic_01_Arrays/AlternatesInArray.java) |
-| 7 | Remove Duplicate From Sorted Array | Easy | LeetCode | [View Code](./Topic_01_Arrays/RemoveDuplicatesFromSortedArray.java) |
-| 8 | Second Largest | Easy | GFG | [View Code](./Topic_01_Arrays/SecondLargest.java) |
-| 9 | Reverse an Array | Easy | GFG | [View Code](./Topic_01_Arrays/ReverseAnArray.java) |
+| #  | Problem Name | Difficulty | Platform | Code Link |
+|:--:| :--- | :---: | :---: | :---: |
+| 1  | Find Element at a Given Index | Easy | GFG | [View Code](./Topic_01_Arrays/FindElementAtAGivenIndex.java) |
+| 2  | Min and Max in Array | Easy | GFG | [View Code](./Topic_01_Arrays/MinAndMaxInArray.java) |
+| 3  | Sum of Array | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfArray.java) |
+| 4  | Sum of Digits | Easy | GFG | [View Code](./Topic_01_Arrays/SumOfDigits.java) |
+| 5  | Check If Array Is Sorted | Easy | GFG | [View Code](./Topic_01_Arrays/CheckIfArrayIsSorted.java) |
+| 6  | Alternates in Array | Easy | GFG | [View Code](./Topic_01_Arrays/AlternatesInArray.java) |
+| 7  | Remove Duplicate From Sorted Array | Easy | LeetCode | [View Code](./Topic_01_Arrays/RemoveDuplicatesFromSortedArray.java) |
+| 8  | Second Largest | Easy | GFG | [View Code](./Topic_01_Arrays/SecondLargest.java) |
+| 9  | Reverse an Array | Easy | GFG | [View Code](./Topic_01_Arrays/ReverseAnArray.java) |
 | 10 | Missing Number | Easy | LeetCode | [View Code](./Topic_01_Arrays/MissingNumber.java) |
 | 11 | Segregate 0's and 1's | Easy | GFG | [View Code](./Topic_01_Arrays/SegregateZerosAndOnes.java) |
 | 12 | Maximum Consecutive Ones | Easy | LeetCode | [View Code](./Topic_01_Arrays/MaxConsecutiveOnes.java) |
@@ -46,6 +46,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 17 | Array Leaders | Easy | GFG | [View Code](./Topic_01_Arrays/ArrayLeaders.java) |
 | 18 | Rearrange Elements By Sign | Medium | LeetCode | [View Code](./Topic_01_Arrays/RearrangeElementsBySign.java) |
 | 19 | Rotate Array By One | Easy | GFG | [View Code](./Topic_01_Arrays/RotateArrayByOne.java) |
+| 20 | Rotate Array | Medium | LeetCode | [View Code](./Topic_01_Arrays/RotateArray.java) |
 
 
 ### 📂 Topic 02: 2D Arrays
