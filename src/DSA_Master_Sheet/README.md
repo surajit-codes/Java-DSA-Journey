@@ -18,7 +18,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 08        | Linked List           | ⏳ In Progress |     **23**      |
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
 | 10        | Binary Trees          | ⏳ In Progress |     **17**      |
-| 13        | Hashmaps              | ⏳ In Progress |     **1**       |
+| 13        | Hashmaps              | ⏳ In Progress |      **7**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -150,3 +150,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 1 | Contains Duplicate | Easy | LeetCode | [View Code](./Topic_13_HashMaps/ContainsDuplicate.java) |
 | 2 | Valid Anagram | Easy | LeetCode | [View Code](./Topic_13_HashMaps/ValidAnagram.java) |
 | 3 | Unique Number Of Occurrences | Easy | LeetCode | [View Code](./Topic_13_HashMaps/UniqueOccurrences.java) |
+| 4 | Find Distinct Elements | Easy | GFG | [View Code](./Topic_13_HashMaps/CountDistinctInArray.java) |
+| 5 | Two Sum | Easy | LeetCode | [View Code](./Topic_13_HashMaps/TwoSum.java) |
+| 6 | Intersection of Two Arrays | Easy | LeetCode | [View Code](./Topic_13_HashMaps/IntersectionOfTwoArray.java) |
+| 7 | Number of pairs with absolute diff K | Easy | LeetCode | [View Code](./Topic_13_HashMaps/NoOfPairWithAbsDiffK.java) |
