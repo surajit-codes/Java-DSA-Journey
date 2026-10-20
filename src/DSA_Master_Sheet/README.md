@@ -8,7 +8,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 
 | Topic No. | Topic Name            | Status | Problems Solved |
 |:----------|:----------------------| :---: |:---------------:|
-| **01**    | **Arrays**            | ⏳ In Progress |      **20**      |
+| **01**    | **Arrays**            | ⏳ In Progress |     **20**      |
 | 02        | 2D Arrays             | ⏳ In Progress |      **4**      |
 | 03        | Basic Maths           | ⏳ In Progress |      **3**      |
 | 04        | Strings               | 🔴 Pending |        0        |
@@ -18,6 +18,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 08        | Linked List           | ⏳ In Progress |     **23**      |
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
 | 10        | Binary Trees          | ⏳ In Progress |     **17**      |
+| 13        | Hashmaps              | ⏳ In Progress |     **1**       |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -141,3 +142,11 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 15 | Path Sum | Easy | LeetCode | [View Code](./Topic_10_BinaryTrees/PathSum.java) |
 | 16 | Check for Balanced Tree | Easy | GFG | [View Code](./Topic_10_BinaryTrees/BalancecBT.java) |
 | 17 | Diameter of Binary Tree | Medium | GFG | [View Code](./Topic_10_BinaryTrees/DiameterOfBT.java) |
+
+## 📂 Topic 13: HashMaps
+
+| No. | Problem Name | Difficulty | Platform | Code Link |
+|---|---|---|---|---|
+| 1 | Contains Duplicate | Easy | LeetCode | [View Code](./Topic_13_HashMaps/ContainsDuplicate.java) |
+| 2 | Valid Anagram | Easy | LeetCode | [View Code](./Topic_13_HashMaps/ValidAnagram.java) |
+| 3 | Unique Number Of Occurrences | Easy | LeetCode | [View Code](./Topic_13_HashMaps/UniqueOccurrences.java) |
