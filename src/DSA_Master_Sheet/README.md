@@ -18,7 +18,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 08        | Linked List           | ⏳ In Progress |     **23**      |
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
 | 10        | Binary Trees          | ⏳ In Progress |     **17**      |
-| 13        | Hashmaps              | ⏳ In Progress |      **7**      |
+| 13        | Hashmaps              | ⏳ In Progress |      **9**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -154,3 +154,5 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 5 | Two Sum | Easy | LeetCode | [View Code](./Topic_13_HashMaps/TwoSum.java) |
 | 6 | Intersection of Two Arrays | Easy | LeetCode | [View Code](./Topic_13_HashMaps/IntersectionOfTwoArray.java) |
 | 7 | Number of pairs with absolute diff K | Easy | LeetCode | [View Code](./Topic_13_HashMaps/NoOfPairWithAbsDiffK.java) |
+| 8 | Count number of equal pairs in string | Easy | GFG | [View Code](./Topic_13_HashMaps/CountNoOfEqualPairsInString.java) |
+| 9 | Longest Distinct Character in String | Medium | GFG | [View Code](./Topic_13_HashMaps/LongestDistinctCharacterInString.java) |
