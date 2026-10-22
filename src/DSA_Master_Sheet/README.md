@@ -19,6 +19,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
 | 10        | Binary Trees          | ⏳ In Progress |     **17**      |
 | 13        | Hashmaps              | ⏳ In Progress |      **9**      |
+| 14        | Heaps                 | ⏳ In Progress |      **2**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -156,3 +157,11 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 7 | Number of pairs with absolute diff K | Easy | LeetCode | [View Code](./Topic_13_HashMaps/NoOfPairWithAbsDiffK.java) |
 | 8 | Count number of equal pairs in string | Easy | GFG | [View Code](./Topic_13_HashMaps/CountNoOfEqualPairsInString.java) |
 | 9 | Longest Distinct Character in String | Medium | GFG | [View Code](./Topic_13_HashMaps/LongestDistinctCharacterInString.java) |
+
+
+## 📂 Topic 14: Heaps
+
+| No. | Problem Name | Difficulty | Platform | Code Link |
+|---|---|---|---|---|
+| 1 | Kth Largest Element | Medium | GFG | [View Code](./Topic_14_Heaps/KthLargestElement.java) |
+| 2 | Kth Smallest Element | Medium | GFG | [View Code](./Topic_14_Heaps/KthSmallestElement.java) |
