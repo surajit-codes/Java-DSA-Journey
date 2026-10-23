@@ -19,7 +19,7 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 | 09        | Stacks & Queues       | 🔴 Pending |        0        |
 | 10        | Binary Trees          | ⏳ In Progress |     **17**      |
 | 13        | Hashmaps              | ⏳ In Progress |      **9**      |
-| 14        | Heaps                 | ⏳ In Progress |      **2**      |
+| 14        | Heaps                 | ⏳ In Progress |      **4**      |
 | ...       | *More Topics Loading* | ... |       ...       |
 
 ---
@@ -165,3 +165,5 @@ This directory tracks my progress through a highly structured DSA Master Sheet. 
 |---|---|---|---|---|
 | 1 | Kth Largest Element | Medium | GFG | [View Code](./Topic_14_Heaps/KthLargestElement.java) |
 | 2 | Kth Smallest Element | Medium | GFG | [View Code](./Topic_14_Heaps/KthSmallestElement.java) |
+| 3 | Minimum costs to Connect Ropes | Medium | GFG | [View Code](./Topic_14_Heaps/MinimumCostOfRopes.java) |
+| 4 | Nearly Sorted Array | Medium | GFG | [View Code](./Topic_14_Heaps/NearlySortedArray.java) |
